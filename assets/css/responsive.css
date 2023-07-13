@@ -1,0 +1,449 @@
+@media (max-width: 1440px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section .right-box .form-section {
+        width: 100%;
+    }
+    .login-page .inner-section .left-box .content {
+        width: 65%;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section .right-box .form-section {
+        width: 100%;
+    }
+    .signup-page .inner-section .left-box .content {
+        width: 65%;
+    }
+    /*==================== SignUp Page ====================*/
+    
+
+    /*==================== Listing Page ====================*/
+    .listing-page .inner-section {
+        width: 85%;
+    }
+    .listing-page .heading {
+        margin: 30px 0px;
+    }
+    /*==================== Listing Page ====================*/
+    
+    
+    /*==================== Favourite List Page ====================*/
+    .favourite-page .inner-section {
+        width: 85%;
+    }
+    .favourite-page .heading {
+        margin: 30px 0px;
+    }
+    /*==================== Favourite List Page ====================*/
+    
+    
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section{
+        width: 40%;
+    }
+    /*==================== My Account Page ====================*/
+    
+    
+    /*==================== Billing Page ====================*/
+    .billing-page .inner-section {
+        width: 60%;
+    }
+    /*==================== Billing Page ====================*/
+    
+}
+
+@media (max-width: 1200px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section {
+        width: 85%;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section {
+        width: 85%;
+    }
+    /*==================== SignUp Page ====================*/
+
+
+    /*==================== Listing Page ====================*/
+    
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section {
+        width: 45%;
+    }    
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    .billing-page .inner-section {
+        width: 60%;
+    }
+    /*==================== Billing Page ====================*/
+}
+
+@media (max-width: 1024px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section {
+        width: 95%;
+    }
+    .login-page .inner-section .right-box {
+        padding: 60px 40px;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section {
+        width: 95%;
+    }
+    .signup-page .inner-section .right-box {
+        padding: 20px 40px;
+    }
+    /*==================== SignUp Page ====================*/
+
+
+    /*==================== Listing Page ====================*/
+    .listing-page .inner-section {
+        width: 90%;
+    }
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+    .favourite-page .inner-section {
+        width: 90%;
+    }
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section {
+        width: 50%;
+    }
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    .billing-page .inner-section {
+        width: 85%;
+    }
+    .billing-page .heading {
+        margin: 40px auto 0px;
+    }
+    /*==================== Billing Page ====================*/
+}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section .left-box {
+        padding: 0px;
+    }
+    .login-page .inner-section .right-box {
+        padding: 50px 0px;
+        top: 18%;
+        bottom: 18%;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section .left-box {
+        padding: 0px;
+    }
+    .signup-page .inner-section .right-box {
+        padding: 0px 0px;
+        top: 18%;
+        bottom: 18%;
+    }
+    /*==================== SignUp Page ====================*/
+
+
+    /*==================== Listing Page ====================*/
+    
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section {
+        width: 65%;
+    }
+    .my-account-page .tab-content .pic-holder {
+        height: 130px;
+        width: 130px;
+    }
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    .billing-page .heading span {
+        font-size: 2.1em;
+    }
+    .billing-page .plan-card{
+        padding: 0px 10px 20px ;
+    }
+    .billing-page .plan-card .card{
+        min-width: 300px;
+        padding: 20px;
+        height: 470px;
+    }
+    .billing-page .plan-card .pricing {
+        font-size: 2.4em;
+    }
+    .billing-page .plan-card .month-year-buttons .tab-btn{
+        min-height: 20px;
+    }
+    .billing-page .plan-card .tab-content .year-nav .discount{
+        font-size: 0.8em;
+        font-weight: 500;
+    }
+    /*==================== Billing Page ====================*/
+}
+
+@media (max-width: 575px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section {
+        display: flex;
+        height: auto;
+    }
+    .login-page .inner-section .right-box {
+        position: unset;
+        width: 90%;
+        padding: 0px 20px 25px;
+    }
+    .login-page .inner-section .left-box {
+        height: 50%;
+    }
+    .login-page .inner-section .left-box .content {
+        width: 100%;
+    }
+    .login-page .inner-section .right-box {
+        height: 50%;
+    }
+
+    .login-page .inner-section .right-box .form-section .signup-link {
+        bottom: 0;
+        left: 80px;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section {
+        display: flex;
+        height: auto;
+    }
+    .signup-page .inner-section .right-box {
+        position: unset;
+        width: 90%;
+        padding: 0px 20px 25px;
+    }
+    .signup-page .inner-section .left-box {
+        height: 50%;
+    }
+    .signup-page .inner-section .left-box .content {
+        width: 100%;
+    }
+    .signup-page .inner-section .right-box {
+        height: 50%;
+    }
+    .signup-page .inner-section .right-box .form-section .signup-link {
+        bottom: 0;
+        left: 80px;
+    }
+    /*==================== SignUp Page ====================*/
+
+    
+    /*==================== Listing Page ====================*/
+    .listing-page .inner-section .list-title{
+        margin: 5px 0px 15px;
+    }
+    .listing-page .inner-section .searchbox {
+        width: 100%;
+    }
+    .listing-page .heading span {
+        font-size: 2em;
+    }
+    .listing-page .heading p {
+        font-size: 2em;
+    }
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+    .favourite-page .inner-section .list-title{
+        margin: 5px 0px 15px;
+    }
+    .favourite-page .inner-section .searchbox {
+        width: 100%;
+    }
+    .favourite-page .heading span {
+        font-size: 2em;
+    }
+    .favourite-page .heading p {
+        font-size: 2em;
+    }
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section {
+        width: 85%;
+    }
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    .billing-page .plan-and-billing-nav{
+        flex-direction: column;
+    }
+    .billing-page .heading span {
+        font-size: 2em;
+    }
+    /*==================== Billing Page ====================*/
+}
+
+@media (max-width: 425px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section .left-box {
+        width: 95%;
+    }
+    .login-page .inner-section .right-box {
+        width: 95%;
+    }
+    .login-page .inner-section .left-box .content .heading p {
+        font-size: 1.8em;
+    }
+    .login-page .inner-section .left-box .content .heading span {
+        font-size: 1.8em;
+    }
+    .login-page .inner-section .right-box .form-section .signup-link {
+        left: 30px;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section .left-box {
+        width: 95%;
+    }
+    .signup-page .inner-section .right-box {
+        width: 95%;
+    }
+    .signup-page .inner-section .left-box .content .heading p {
+        font-size: 1.8em;
+    }
+    .signup-page .inner-section .left-box .content .heading span {
+        font-size: 1.8em;
+    }
+    .signup-page .inner-section .right-box .form-section .signup-link {
+        left: 30px;
+    }
+    /*==================== SignUp Page ====================*/
+
+
+    /*==================== Listing Page ====================*/
+    
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    .my-account-page .inner-section {
+        width: 95%;
+    }
+    .my-account-page .tab-content .profile-nav{
+        flex-direction: column;
+        align-items: center;
+    }
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    .billing-page .inner-section {
+        width: 95%;
+    }
+    .billing-page .heading span {
+        font-size: 2em;
+    }
+    .billing-page .heading span {
+        font-size: 1.8em;
+    }
+    /*==================== Billing Page ====================*/
+}
+
+@media (max-width: 375px) {
+
+    /*==================== Login Page ====================*/
+    .login-page .inner-section .left-box .content {
+        padding: 50px 20px;
+    }
+    .login-page .inner-section .right-box {
+        padding: 0px;
+    }
+    .login-page .inner-section .right-box .form-section {
+        padding: 30px 20px 60px;
+    }
+    /*==================== Login Page ====================*/
+
+
+    /*==================== SignUp Page ====================*/
+    .signup-page .inner-section .left-box .content {
+        padding: 50px 20px;
+    }
+    .signup-page .inner-section .right-box {
+        padding: 0px;
+    }
+    .signup-page .inner-section .right-box .form-section {
+        padding: 30px 20px 60px;
+    }
+    /*==================== SignUp Page ====================*/
+
+
+    /*==================== Listing Page ====================*/
+    
+    /*==================== Listing Page ====================*/
+
+
+    /*==================== Favourite List Page ====================*/
+
+    /*==================== Favourite List Page ====================*/
+
+
+    /*==================== My Account Page ====================*/
+    
+    /*==================== My Account Page ====================*/
+
+
+    /*==================== Billing Page ====================*/
+    
+    /*==================== Billing Page ====================*/
+}
